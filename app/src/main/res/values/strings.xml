@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Ping App</string>
+    <string name="etIPAdd">Enter Web or IP Address</string>
+    <string name="etPacketCount">Enter Packets.</string>
+    <string name="tvPing">PING</string>
+    <string name="tvCredits">Created by KLSantos</string>
+    <string name="tvTitle">BASIC PING APP</string>
+</resources>
